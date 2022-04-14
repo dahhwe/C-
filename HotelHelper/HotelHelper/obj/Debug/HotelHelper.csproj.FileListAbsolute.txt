@@ -1,0 +1,79 @@
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe.config
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\bin\Debug\HotelHelper.pdb
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.Properties.Resources.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.GenerateResource.Cache
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.exe
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.pdb
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmMain.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmSettings.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmLogin.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmCustomersPersonalInformation.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRoomService.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRestaurantBooking.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe.config
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\bin\Debug\HotelHelper.pdb
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csprojAssemblyReference.cache
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmCustomersPersonalInformation.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmMain.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRestaurantBooking.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRoomService.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmSettings.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmLogin.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.Properties.Resources.resources
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.GenerateResource.cache
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.exe
+C:\Users\dahhw\Downloads\HotelHelper\HotelHelper\obj\Debug\HotelHelper.pdb
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe.config
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\bin\Debug\HotelHelper.pdb
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csprojAssemblyReference.cache
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmCustomersPersonalInformation.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmMain.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRestaurantBooking.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRoomService.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmSettings.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmLogin.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.Properties.Resources.resources
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.GenerateResource.cache
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.exe
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.pdb
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe.config
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\bin\Debug\HotelHelper.pdb
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csprojAssemblyReference.cache
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmCustomersPersonalInformation.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmMain.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRestaurantBooking.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRoomService.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmSettings.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmLogin.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.Properties.Resources.resources
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.GenerateResource.cache
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.CoreCompileInputs.cache
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.exe
+\\brockfs03\work-S\DSHYNKARENKO\Downloads\HotelHelper-20200109T142448Z-001\HotelHelper\HotelHelper\obj\Debug\HotelHelper.pdb
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\bin\Debug\HotelDatabase.accdb
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmAdminMain.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csprojAssemblyReference.cache
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmAdminMain.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmCustomersPersonalInformation.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmMain.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRestaurantBooking.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmRoomService.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmSettings.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmLogin.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.Properties.Resources.resources
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.GenerateResource.cache
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.exe
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\obj\Debug\HotelHelper.pdb
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\bin\Debug\HotelDatabase.accdb
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe.config
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\bin\Debug\HotelHelper.exe
+C:\Users\dahhw\OneDrive\Документы\HotelHelperFebruary\HotelHelper\HotelHelper\bin\Debug\HotelHelper.pdb
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\bin\Debug\HotelDatabase.accdb
+C:\Users\dahhw\OneDrive\Рабочий стол\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmAdminMain.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.frmAnalysis.resources
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csprojAssemblyReference.cache
+Z:\DSHYNKARENKO\Visual Studio 2017\Projects\HotelHelper\HotelHelper\obj\Debug\HotelHelper.csproj.CoreCompileInputs.cache
